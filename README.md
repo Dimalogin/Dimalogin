@@ -1,7 +1,7 @@
 ## Hi there, I'm Dmitry Loginovskiy :v:
 
 
-### I'm a Junior Front-End Developer from Minsk, Belarus:belarus:.
+### I'm a Junior Front-End Developer from Minsk, Belarus.
 
 I've been doing front-end development for over six months.\
 I am currently learning JavaScript and TypeScript.
