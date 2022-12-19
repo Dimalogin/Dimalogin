@@ -7,7 +7,7 @@ I've been doing front-end development for over six months.\
 I am currently learning JavaScript and TypeScript.
 
 :desktop_computer: My Portfolio: https://dimalogin.github.io/My-Potfolio/my-portfolio/#home \
-:briefcase: My CV: https://dimalogin.github.io/My-Potfolio/my-portfolio/pdf/Dmitry%20Loginovskiy.pdf
+:briefcase: My CV: https://dimalogin.github.io/My-Potfolio/my-portfolio/pdf/Dmitry-Loginovskiy.pdf
 
 
 #### :wrench: Technologies & Tools
