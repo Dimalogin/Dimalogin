@@ -6,7 +6,7 @@
 I've been studying front-end development for a year. \
 I am currently learning TypeScript and React and create pet-projects.
 
-:desktop_computer: My Portfolio: https://dimalogin.github.io/My-Potfolio/my-portfolio/\
+:desktop_computer: My Portfolio: https://dimalogin.github.io/My-Potfolio/my-portfolio/
 
 
 #### :wrench: Technologies & Tools
