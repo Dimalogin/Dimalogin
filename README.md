@@ -1,11 +1,9 @@
 ## Hi there, I'm Dmitry Loginovskiy :v:
 
 
-### I'm Front-End Developer from Minsk, Belarus.
+### I'm Front-End Developer
 
-I am currently learning TypeScript and React and create pet-projects.
-
-:desktop_computer: My Portfolio: https://dimalogin.github.io/My-Potfolio/my-portfolio/
+:desktop_computer:Portfolio: https://dimalogin.github.io/My-Potfolio/my-portfolio/
 
 
 #### :wrench: Technologies & Tools
