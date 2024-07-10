@@ -1,9 +1,9 @@
 ## Hi there, I'm Dmitry Loginovskiy :v:
 
 
-### I'm Front-End Developer
+### I'm Web Developer
 
-:desktop_computer:Portfolio: https://dimalogin.github.io/My-Potfolio/my-portfolio/
+:desktop_computer:Portfolio:
 
 
 #### :wrench: Technologies & Tools
