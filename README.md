@@ -1,8 +1,5 @@
 ## Hi there, I'm Dmitry Loginovskiy :v:
 
-
-### I'm Web Developer
-
 :desktop_computer:Portfolio:
 
 
