@@ -1,4 +1,4 @@
-## Hi there, I'm Dmitry Loginovskiy :v:
+## Hi there, I'm Dmitry :v:
 
 :desktop_computer:Portfolio:
 
